@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1071527776728",
+    "firebase_url": "https://my-application-d6c24.firebaseio.com",
+    "project_id": "my-application-d6c24",
+    "storage_bucket": "my-application-d6c24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071527776728:android:4bb24effc7b3ea3387e2ad",
+        "android_client_info": {
+          "package_name": "com.notificationshare.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071527776728-gdrn86ammca8cshtt2m1ipiu4dfdjrps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notificationshare.myapplication",
+            "certificate_hash": "f22a6f83bc35222bcc8e1dddbb1dbdeadf18151c"
+          }
+        },
+        {
+          "client_id": "1071527776728-cfep0k49bv0vjhsrmdoru5b59pc58bdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notificationshare.myapplication",
+            "certificate_hash": "910e5adc5f7d8c5fa9b9e1419a6cf92e719a894b"
+          }
+        },
+        {
+          "client_id": "1071527776728-j5dbhc63r9ig1g22nn5mmttcplscfa30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG8QmmBoY2UMY57N92gS_6eoMhXIb9lE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071527776728-j5dbhc63r9ig1g22nn5mmttcplscfa30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
